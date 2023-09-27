@@ -384,3 +384,5 @@ INFO: Schema "PUBLIC" is up to date. No migration necessary.
 2023.09.27 12:19:15 INFO  time: initialize in 1.01s
 2023.09.27 12:19:18 WARN  Build server is not auto-connectable.
 2023.09.27 12:19:18 WARN  no build tool detected in workspace 'C:\Users\donald\Desktop\python\pythonprojects_recent\loz'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+Sep 27, 2023 12:19:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
