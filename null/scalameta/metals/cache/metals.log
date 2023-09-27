@@ -1,0 +1,2 @@
+2023.09.27 12:19:09 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at c:\Users\donald\Desktop\python\pythonprojects_recent\loz\.metals\lsp.trace.json or c:\Users\donald\Desktop\python\pythonprojects_recent\loz\null\scalameta\metals\cache\lsp.trace.json
+2023.09.27 12:19:14 INFO  logging to files C:\Users\donald\Desktop\python\pythonprojects_recent\loz\.metals\metals.log
